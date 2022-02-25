@@ -30,11 +30,11 @@ public class Config {
 	
 	private ApiInfo getApiInfo() {
 		return new ApiInfo(
-				"Order Service API",
+				"Service API para Test Interfell",
 				"Order Service API Description",
 				"1.0",
 				"http://codmind.com/terms",
-				new Contact("Codmind", "https://codmind.com", "apis@codmind.com"),
+				new Contact("Kamus", "https://t.me/kamuscoinVE", "kamuscoin@protonmail.com"),
 				"LICENSE",
 				"LICENSE URL",
 				Collections.emptyList()
